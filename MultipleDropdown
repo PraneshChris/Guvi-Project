@@ -1,0 +1,14 @@
+<html>
+<body>
+<form>
+
+<select multiple ="" id ="Country">
+<option value = "US"> United States </option>
+<option value = "IN"> India </option>
+<option value = "EN"> England </option>
+<option value = "AU"> Australia </option>
+</select>
+
+</form>
+</body>
+</html>
